@@ -116,6 +116,12 @@ section {
 	margin: auto;
 }
 
+h3 {
+	font-weight: bold;
+	font-size: 20px;
+	margin: 20px;
+}
+
 .midQ {
 	color: #606161;
 	margin:20px;
@@ -187,32 +193,22 @@ footer {
 	padding: 30px;
 }
 
-
-.sIcons li {
-	max-width: 30px;
-	display: inline-block;
-	margin: 30px;
-	
-}
-
-
-
 h2 {
 	color: #f9e42e;
 	font-size: 24px;
 	font-weight: 800;
 }
 
-h3 {
-	font-weight: bold;
-	font-size: 20px;
-	margin: 20px;
+.sIcons li {
+	max-width: 30px;
+	display: inline-block;
+	margin: 30px;
 }
 
 
-
-
-
+img {
+	max-width: 50px;
+}
 
 .social {
 	display: inline-block;
